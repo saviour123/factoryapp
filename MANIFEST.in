@@ -1,0 +1,2 @@
+graft factoryapp/templates
+graft factoryapp/static
